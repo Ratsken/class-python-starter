@@ -2,6 +2,24 @@
 
 This repository contains the starter project for our Python class.
 
+## Table of Contents
+
+- [Project](#project)
+- [Getting Started](#getting-started)
+- [Notes](#notes)
+- [Python Programming Class Notes](#python-programming-class-notes)
+- [Course Overview](#course-overview)
+- [Learning Objectives](#learning-objectives)
+- [Prerequisites](#prerequisites)
+- [Weekly Learning Path](#weekly-learning-path)
+- [Week-by-Week Study Checklist](#week-by-week-study-checklist)
+- [Practical Labs](#practical-labs)
+- [Assessment Breakdown](#assessment-breakdown)
+- [Quick Reference Commands](#quick-reference-commands)
+- [Core Glossary](#core-glossary)
+- [Learning Methodology](#learning-methodology)
+- [Certification](#certification)
+
 ## Project
 
 - `django_auth/`: Django starter application we are building in class
@@ -91,6 +109,46 @@ By the end of training, learners should be able to:
 - Data science with NumPy and Pandas
 - Web development with Django and Flask
 
+## Week-by-Week Study Checklist
+
+Use this checklist to track progress in class.
+
+### Week 1 Checklist
+
+- [ ] Install Python and verify with `python --version`
+- [ ] Set up editor/IDE (VS Code or PyCharm)
+- [ ] Initialize project with Git and first commit
+- [ ] Practice variables and data types (int, float, str, bool)
+- [ ] Complete string slicing and formatting exercises
+- [ ] Write a script using input, comparisons, and arithmetic
+
+### Week 2 Checklist
+
+- [ ] Build decision logic using `if`, `elif`, and `else`
+- [ ] Practice loop exercises using `for` and `while`
+- [ ] Use `break` and `continue` correctly
+- [ ] Create and manipulate lists and tuples
+- [ ] Complete Lab 2.1 (Temperature Converter)
+- [ ] Complete Lab 2.2 (Number Guessing Game)
+
+### Week 3 Checklist
+
+- [ ] Work with dictionaries and sets
+- [ ] Define and call functions with parameters and return values
+- [ ] Practice scope with local and global variables
+- [ ] Build menu-driven program flow
+- [ ] Complete Lab 3.1 (Contact Management System)
+
+### Extended Track Checklist
+
+- [ ] Build one OOP mini-project using classes
+- [ ] Read and write file data safely with `with open(...)`
+- [ ] Parse and export JSON/CSV data
+- [ ] Add try/except handling to project workflows
+- [ ] Write basic unit tests for core functions
+- [ ] Build one small app in Django or Flask
+- [ ] Try one data task using NumPy/Pandas
+
 ## Practical Labs
 
 - Lab 1.1: Environment verification
@@ -106,14 +164,6 @@ By the end of training, learners should be able to:
 - Weekly Assignments: 40%
 - Practical Labs: 30%
 - Final Project: 30%
-
-Grading scale:
-
-- A: 90 to 100 (Distinction)
-- B: 75 to 89 (Credit)
-- C: 60 to 74 (Pass)
-- D: 50 to 59 (Conditional Pass)
-- F: Below 50 (Fail)
 
 ## Quick Reference Commands
 
